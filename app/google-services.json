@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425305761955",
+    "firebase_url": "https://todosplit-a9d0c.firebaseio.com",
+    "project_id": "todosplit-a9d0c",
+    "storage_bucket": "todosplit-a9d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425305761955:android:ab72088bbb049a3b",
+        "android_client_info": {
+          "package_name": "com.rishabhrk.todosplit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425305761955-r4ie1p0dnndmn2k18c1is7pm9657331d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabhrk.todosplit",
+            "certificate_hash": "3337c22c5a4cccf907fa9c557f48b822ee91b992"
+          }
+        },
+        {
+          "client_id": "425305761955-im8iuokndl9fs6umo20rjj3prqnqvhov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVHyu5n_jXnm9JTnNShskdFC-HMwswY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425305761955-im8iuokndl9fs6umo20rjj3prqnqvhov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
