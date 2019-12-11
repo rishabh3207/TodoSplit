@@ -2,7 +2,7 @@
 Its an Android Application where we can save our todos and then split our work by chatting with group.
 Functionality:
 1.Save Todos.
-2.Chat.
+2.Chat(one to one and group).
 
 Some Screen Shots :
 ![WhatsApp Image 2019-09-07 at 11 11 23 PM](https://user-images.githubusercontent.com/47813814/64478435-22dab880-d1c6-11e9-8cee-4764c3a69fd7.jpeg)
